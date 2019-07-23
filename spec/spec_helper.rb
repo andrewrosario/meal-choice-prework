@@ -9,4 +9,5 @@ RSpec.configure do |config|
 end
 
 def meal_choice(choice = "meat")
+  return choice
 end
